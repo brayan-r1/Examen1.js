@@ -1,3 +1,3 @@
-import showData from "./Show/showdata,js";
+import showData from "./Show/showdata.js";
 
 showData();
